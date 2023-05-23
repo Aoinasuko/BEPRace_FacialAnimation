@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>MgP_BrowNormal</defName>
+		<texPath>LittleFairy_FA/Brows/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>MgP_EyeNormal</defName>
+		<texPath>LittleFairy_FA/Eyes/Normal</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>MgP_EyeSoulless</defName>
+		<texPath>LittleFairy_FA/Eyes/Soulless</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>MgP_EyeLoveFull</defName>
+		<texPath>LittleFairy_FA/Eyes/LoveFull</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>MagiaPlant_Pawn</raceName>
+		<probability>0.1</probability>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>MgP_HeadNormal</defName>
+		<texPath>LittleFairy_FA/Heads_Blank/Normal</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverlay</shaderColorOverride>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>MgP_LidNormal</defName>
+		<texPath>LittleFairy_FA/Lids/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>MgP_LidLong</defName>
+		<texPath>LittleFairy_FA/Lids/Long</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>MgP_LidClose</defName>
+		<texPath>LittleFairy_FA/Lids/Close</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>MgP_LidBright</defName>
+		<texPath>LittleFairy_FA/Lids/Bright</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MgP_MouthNormal</defName>
+		<texPath>LittleFairy_FA/Mouth/Normal</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>MgP_MouthOpen</defName>
+		<texPath>LittleFairy_FA/Mouth/Open</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.EmotionTypeDef>
+		<defName>MgP_EmotionNormal</defName>
+		<texPath>LittleFairy_FA/Emotions/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.EmotionTypeDef>
+
+	<FacialAnimation.LidOptionTypeDef>
+		<defName>MgP_LidOptionNormal</defName>
+		<texPath>LittleFairy_FA/LidOptions/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<minColor>(1,1,1,1)</minColor>
+		<maxColor>(1,1,1,1)</maxColor>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.LidOptionTypeDef>
+	
+	<FacialAnimation.SkinTypeDef>
+		<defName>MgP_SkinNormal</defName>
+		<texPath>LittleFairy_FA/Skins/Normal</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<raceName>MagiaPlant_Pawn</raceName>
+	</FacialAnimation.SkinTypeDef>
+	
+</Defs>

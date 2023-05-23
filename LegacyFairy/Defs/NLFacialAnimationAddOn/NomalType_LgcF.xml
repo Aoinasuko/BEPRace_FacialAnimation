@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<FacialAnimation.BrowTypeDef>
+		<defName>LgcF_BrowNormal</defName>
+		<texPath>LittleFairy_FA/Brows/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.BrowTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>LgcF_EyeNormal</defName>
+		<texPath>LittleFairy_FA/Eyes/Normal</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>LgcF_EyeSoulless</defName>
+		<texPath>LittleFairy_FA/Eyes/Soulless</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>LgcF_EyeLoveFull</defName>
+		<texPath>LittleFairy_FA/Eyes/LoveFull</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>LegacyFairy_Pawn</raceName>
+		<probability>0.1</probability>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.HeadTypeDef>
+		<defName>LgcF_HeadNormal</defName>
+		<texPath>LittleFairy_FA/Heads_Blank/Normal</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<shaderColorOverride>Map/CutoutSkinOverlay</shaderColorOverride>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.HeadTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LgcF_LidNormal</defName>
+		<texPath>LittleFairy_FA/Lids/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LgcF_LidLong</defName>
+		<texPath>LittleFairy_FA/Lids/Long</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LgcF_LidClose</defName>
+		<texPath>LittleFairy_FA/Lids/Close</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.LidTypeDef>
+		<defName>LgcF_LidBright</defName>
+		<texPath>LittleFairy_FA/Lids/Bright</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.LidTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>LgcF_MouthNormal</defName>
+		<texPath>LittleFairy_FA/Mouth/Normal</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.MouthTypeDef>
+		<defName>LgcF_MouthOpen</defName>
+		<texPath>LittleFairy_FA/Mouth/Open</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.MouthTypeDef>
+
+	<FacialAnimation.EmotionTypeDef>
+		<defName>LgcF_EmotionNormal</defName>
+		<texPath>LittleFairy_FA/Emotions/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.EmotionTypeDef>
+
+	<FacialAnimation.LidOptionTypeDef>
+		<defName>LgcF_LidOptionNormal</defName>
+		<texPath>LittleFairy_FA/LidOptions/Normal</texPath>
+		<shader>Map/Transparent</shader>
+		<minColor>(1,1,1,1)</minColor>
+		<maxColor>(1,1,1,1)</maxColor>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.LidOptionTypeDef>
+	
+	<FacialAnimation.SkinTypeDef>
+		<defName>LgcF_SkinNormal</defName>
+		<texPath>LittleFairy_FA/Skins/Normal</texPath>
+		<shader>Map/CutoutSkin</shader>
+		<raceName>LegacyFairy_Pawn</raceName>
+	</FacialAnimation.SkinTypeDef>
+	
+</Defs>

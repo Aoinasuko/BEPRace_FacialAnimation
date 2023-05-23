@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.4>
+		<li>Common</li>
+		<li IfModActive="bep.littlefairy.ttwsfabr">LittleFairy</li>
+		<li IfModActive="bep.mofy.twfiaclr">Mofy</li>
+		<li IfModActive="bep.resurreviewy.tnair">Resurreviewy</li>
+		<li IfModActive="bep.glassy.terr">Glassy</li>
+		<li IfModActive="bep.sweety.mcsr">Sweety</li>
+		<li IfModActive="bep.legacyfairy.tftr">Legacyfairy</li>
+		<li IfModActive="bep.magiaplant.tfmr">Magiaplant</li>
+		<li IfModActive="bep.forgotty.tfcr">Forgotty</li>
+		<li IfModActive="bep.maddy.twmr">Maddy</li>
+	</v1.4>
+</loadFolders>

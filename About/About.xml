@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>B.E.P Race FacialAnimation</name>
+  <author>Aoi_nasuko</author>
+  <packageId>bep.race.facialanimation</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>Nals.FacialAnimation</packageId>
+      <displayName>FacialAnimation</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1635901197</steamWorkshopUrl>
+      <downloadUrl></downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>Nals.FacialAnimation</li>
+    <li>Nals.FacialAnimationExperimentals</li>
+    <li>bep.littlefairy.ttwsfabr</li>
+    <li>bep.mofy.twfiaclr</li>
+    <li>bep.resurreviewy.tnair</li>
+    <li>bep.glassy.terr</li>
+    <li>bep.sweety.mcsr</li>
+    <li>bep.legacyfairy.tftr</li>
+    <li>bep.magiaplant.tfmr</li>
+    <li>bep.forgotty.tfcr</li>
+    <li>bep.maddy.twmr</li>
+  </loadAfter>
+  <description>
+以下のModの種族に、FacialAnimationの定義を追加します。
+
+-LittleFairy the Those Who Seek Flesh and Blood Race
+-Mofy the WhiteFox in a Cold Land Race
+-Resurreviewy the nxious about immortality race
+-Glassy the Earth Running Race
+-Sweety the MilkChocolate Soul Race
+-LegacyFairy the forgotten technology race
+-MagiaPlant the Forgotten Magical race
+-Forgotty the Forgotten Cyborg race
+-Maddy the Wears Madness race
+  </description>
+</ModMetaData>
