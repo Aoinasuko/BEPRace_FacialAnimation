@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/AlienRace.ThingDef_AlienRace[@Tag="BEPRace"]/alienRace/graphicPaths/head</xpath>
+		<value><head>BEPRaceCore/Race/Dummy/Dummy</head></value>
+	</Operation>
+</Patch>
