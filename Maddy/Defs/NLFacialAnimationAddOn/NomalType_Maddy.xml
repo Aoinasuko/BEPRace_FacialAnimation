@@ -39,8 +39,7 @@
 	<FacialAnimation.HeadTypeDef>
 		<defName>Maddy_HeadNormal</defName>
 		<texPath>BEPRace_FA/Heads_Blank/Normal</texPath>
-		<shader>Map/CutoutSkin</shader>
-		<shaderColorOverride>Map/CutoutSkinOverlay</shaderColorOverride>
+		<shader>Map/CutoutSkinOverride</shader>
 		<raceName>Maddy_Pawn</raceName>
 	</FacialAnimation.HeadTypeDef>
 
