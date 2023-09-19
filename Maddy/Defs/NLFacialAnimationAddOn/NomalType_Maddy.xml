@@ -10,7 +10,7 @@
 
 	<FacialAnimation.EyeballTypeDef>
 		<defName>Maddy_EyeNormal</defName>
-		<texPath>BEPRace_FA/Eyes/Normal</texPath>
+		<texPath>BEPRace_FA/Eyes/Normal_A</texPath>
 		<shader>Map/CutoutComplex</shader>
 		<minColor>RGB(0.20,0.20,0.20)</minColor>
 		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
@@ -19,7 +19,43 @@
 
 	<FacialAnimation.EyeballTypeDef>
 		<defName>Maddy_EyeSoulless</defName>
-		<texPath>BEPRace_FA/Eyes/Soulless</texPath>
+		<texPath>BEPRace_FA/Eyes/Soulless_A</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>Maddy_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>Maddy_EyeNormal_B</defName>
+		<texPath>BEPRace_FA/Eyes/Normal_B</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>Maddy_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>Maddy_EyeSoulless_B</defName>
+		<texPath>BEPRace_FA/Eyes/Soulless_B</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>Maddy_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>Maddy_EyeSmall</defName>
+		<texPath>BEPRace_FA/Eyes/Small_A</texPath>
+		<shader>Map/CutoutComplex</shader>
+		<minColor>RGB(0.20,0.20,0.20)</minColor>
+		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
+		<raceName>Maddy_Pawn</raceName>
+	</FacialAnimation.EyeballTypeDef>
+
+	<FacialAnimation.EyeballTypeDef>
+		<defName>Maddy_EyeSmall_B</defName>
+		<texPath>BEPRace_FA/Eyes/Small_B</texPath>
 		<shader>Map/CutoutComplex</shader>
 		<minColor>RGB(0.20,0.20,0.20)</minColor>
 		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
@@ -28,7 +64,7 @@
 
 	<FacialAnimation.EyeballTypeDef>
 		<defName>Maddy_EyeLoveFull</defName>
-		<texPath>BEPRace_FA/Eyes/LoveFull</texPath>
+		<texPath>BEPRace_FA/Eyes/LoveFull_A</texPath>
 		<shader>Map/CutoutComplex</shader>
 		<minColor>RGB(0.20,0.20,0.20)</minColor>
 		<maxColor>RGB(0.99,0.99,0.99)</maxColor>
